@@ -1,0 +1,13 @@
+.task-slider .carousel .slide {
+    background-color: #fff!important;
+}
+.agency .agency-main .control-dots .dot {
+    background-color: #e8a233!important;
+    outline:none;
+}
+.carousel .slide {
+    background-color: #fff!important;
+}
+.carousel .slider-wrapper.axis-horizontal .slider{
+    align-items: flex-end;
+}
